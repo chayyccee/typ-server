@@ -4,7 +4,7 @@ import dayjs from "dayjs";
 const loggerInstance = logger({
     name: "app",
     level: "debug",
-    prettyPrint: true,
+    //prettyPrint: true,
     base: {
         pid: false,
         hostname: false,
